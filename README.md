@@ -16,6 +16,6 @@
 - 👯 I’m looking to collaborate on some web develpoment projects 👀<br/>
 - 🤔 I’m looking for help with anything which I can learn from you.<br/>
 - 📫 How to reach me: <a href="mailto:arundhatisharma1099@gmail.com">mail me</a><br/>
-- 😄 Pronouns: she/her/his<br/>
+- 😄 Pronouns: she/her<br/>
 - ⚡ Fun fact: THE WORLD’S FIRST WEBCAM WATCHED A COFFEE POT ☕ ....<br/>
 
