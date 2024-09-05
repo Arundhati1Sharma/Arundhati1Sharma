@@ -3,11 +3,11 @@
 <img align="left" alt="Arundhati's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arundhati1Sharma&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
-
 <a href="https://medium.com/@arundhatisharma1098">
 <img align="left" alt="Arundhati's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a><br/>    
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arundhati1Sharma&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
 
 #### About Me   
 <br/>
